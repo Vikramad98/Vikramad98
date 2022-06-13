@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Vikramad98
+- 👋 Hi, I’m Vikramaditya Gaikwad
 - 👀 I’m interested in Software Development/game development/AR and VR 
 - 🌱 I’m currently learning unity and C#
 - 💞️ I’m looking to collaborate on Softwares,games for mobile devices/PC and consoles
