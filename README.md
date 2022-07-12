@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Vikramaditya Gaikwad
-- 👀 I’m interested in Software Development/game development/AR and VR 
+- 👀 I’m interested in Software Development
 - 🌱 I’m currently learning java,data structure and algorithms, spring boot, python django!
 - 💞️ I’m looking to collaborate on Softwares,games for mobile devices/PC and consoles
 - 📫 You can connect with me on linkedin https://www.linkedin.com/in/vikramadityagaikwad/
