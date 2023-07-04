@@ -20,7 +20,7 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1pvmZASDcLqwhwzGkvmiFGluHLTiVQ9ID/view?usp=drive_link](https://drive.google.com/file/d/1pvmZASDcLqwhwzGkvmiFGluHLTiVQ9ID/view?usp=drive_link)
 
-- ⚡ Fun fact **Love Movies, Video Games & Chicken Biryani.**
+- ⚡ Fun fact **I am a Memer.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
